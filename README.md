@@ -11,5 +11,4 @@ This project contains a sales performance dashboard created using Power BI. It i
 - Excel
 - DAX
 
-## Preview:
-![Dashboard Screenshot](dashboard.png)
+
